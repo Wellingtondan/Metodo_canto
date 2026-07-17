@@ -1,4 +1,23 @@
-# Metodo_canto
+# Método de Canto
+
+Um método progressivo para desenvolvimento vocal, musical e artístico.
+
+## Sobre o Método
+
+O Método de Canto foi desenvolvido para conduzir o aluno desde os fundamentos musicais até a construção de uma identidade artística.
+
+A metodologia é dividida em quatro etapas:
+
+1. Fundamentos Musicais
+2. Construção do Instrumento Vocal
+3. Registros Vocais e Coordenação
+4. Interpretação, Estilo, Performance e Identidade Artística
+
+O aluno passa por uma evolução progressiva:
+
+Ouvir → Produzir → Controlar → Expressar
+
+---------
 
 # Módulo 1 — Fundamentos Musicais
 
