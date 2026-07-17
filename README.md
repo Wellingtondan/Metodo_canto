@@ -19,7 +19,7 @@ Ouvir → Produzir → Controlar → Expressar
 
 ---------
 
-# Módulo 1 — Fundamentos Musicais
+# 🎼 Módulo 1 — Fundamentos Musicais
 
 > "Antes de aprender a usar a voz como instrumento, é preciso compreender a música que ela irá interpretar."
 
@@ -372,7 +372,7 @@ Mais do que cantar corretamente, o aluno terá desenvolvido um ouvido musical ma
 
 # Próximo Módulo
 
-## Módulo 2 — Construção do Instrumento Vocal
+## 🫁 Módulo 2 — Construção do Instrumento Vocal
 
 No segundo módulo, o foco deixa de ser a música e passa a ser o próprio instrumento: a voz.
 
@@ -757,7 +757,7 @@ Este módulo estabelece as bases fisiológicas necessárias para o desenvolvimen
 
 # Próximo Módulo
 
-## Módulo 3 — Registros Vocais e Coordenação
+## 🎤 Módulo 3 — Registros Vocais e Coordenação
 
 No terceiro módulo, o aluno aprenderá a controlar toda a sua extensão vocal, compreendendo os diferentes registros (voz modal, voz de cabeça, voz mista e falsete), desenvolvendo transições suaves através do passaggio e adquirindo maior flexibilidade e uniformidade vocal.
 
@@ -1079,7 +1079,7 @@ Este módulo representa a transição entre o domínio técnico básico e a util
 
 -----------------------------------------
 
-# Módulo 4 — Interpretação, Estilo, Performance e Identidade Artística
+# 🎭 Módulo 4 — Interpretação, Estilo, Performance e Identidade Artística
 
 > "Um cantor não é definido apenas pelas notas que canta, mas pela história que consegue transmitir através delas."
 
