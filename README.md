@@ -2037,3 +2037,145 @@ _________________________________________
 **Data**
 
 ____ / ____ / ______
+
+
+-------
+
+# REGISTRO DE AULA
+
+## Método de Canto
+
+Aluno:
+
+Data:
+
+Módulo:
+
+---
+
+# Conteúdo Trabalhado
+
+☐ Respiração
+
+☐ Afinação
+
+☐ Ritmo
+
+☐ Vocalize
+
+☐ Técnica vocal
+
+☐ Repertório
+
+☐ Teclado
+
+---
+
+# Exercícios realizados
+
+1.
+
+---
+
+2.
+
+---
+
+3.
+
+---
+
+# Dificuldades encontradas
+
+---
+
+---
+
+# Evolução percebida
+
+---
+
+---
+
+# Tarefa para casa
+
+☐ Vocalize
+
+☐ Música
+
+☐ Exercício de percepção
+
+☐ Exercício de teclado
+
+☐ Gravação
+
+---
+
+# Próxima aula
+
+Objetivo:
+
+---
+
+Observações:
+
+---
+
+----
+
+INICIANTE
+
+🎵 Módulo 1
+Fundamentos Musicais
+
+↓
+
+
+🎤 Módulo 2
+Construção Vocal
+
+↓
+
+
+🎶 Módulo 3
+Registros Vocais
+
+↓
+
+
+⭐ Módulo 4
+Performance
+
+↓
+
+
+🏆 Cantor Completo
+
+
+------
+
+# DIÁRIO DO CANTOR
+
+Hoje eu pratiquei:
+
+____ minutos
+
+Exercício:
+
+______________
+
+Minha dificuldade:
+
+______________
+
+Minha evolução:
+
+______________
+
+Minha dúvida para próxima aula:
+
+______________
+
+
+
+
