@@ -1670,3 +1670,370 @@ Desenvolve arte, identidade e expressão.
 # Resultado Final
 
 O aluno conclui o método preparado para utilizar sua voz como instrumento artístico, unindo técnica, musicalidade e emoção para criar performances completas.
+
+---
+
+# AVALIAÇÃO DE DESENVOLVIMENTO VOCAL
+
+## Método de Canto
+
+### Módulo 1 — Fundamentos Musicais
+
+---
+
+# Identificação do Aluno
+
+**Nome:** _______________________________________________
+
+**Data:** ____ / ____ / ______
+
+**Professor:** ___________________________________________
+
+**Tempo de estudo:** ________________________
+
+**Idade:** ___________
+
+---
+
+# Objetivos do Aluno
+
+**Por que deseja aprender canto?**
+
+---
+
+---
+
+---
+
+**Quais estilos musicais gosta de cantar?**
+
+---
+
+---
+
+**Quais artistas são suas referências?**
+
+---
+
+---
+
+**Quais músicas gostaria de aprender?**
+
+---
+
+---
+
+**Já teve aulas de canto anteriormente?**
+
+☐ Sim
+
+☐ Não
+
+Se sim, por quanto tempo?
+
+______________________________________________________
+
+---
+
+# Avaliação Técnica
+
+## 1. Postura Corporal
+
+| Critério | 1 | 2 | 3 | 4 | 5 |
+|-----------|:-:|:-:|:-:|:-:|:-:|
+| Alinhamento corporal | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Relaxamento muscular | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Estabilidade durante o canto | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**Observações**
+
+---
+
+---
+
+---
+
+## 2. Respiração
+
+| Critério |1|2|3|4|5|
+|-----------|:-:|:-:|:-:|:-:|:-:|
+| Consciência respiratória |☐|☐|☐|☐|☐|
+| Respiração diafragmática |☐|☐|☐|☐|☐|
+| Controle do fluxo de ar |☐|☐|☐|☐|☐|
+| Sustentação das notas |☐|☐|☐|☐|☐|
+
+**Observações**
+
+---
+
+---
+
+---
+
+## 3. Afinação
+
+| Critério |1|2|3|4|5|
+|-----------|:-:|:-:|:-:|:-:|:-:|
+| Reprodução de notas |☐|☐|☐|☐|☐|
+| Afinação em escalas |☐|☐|☐|☐|☐|
+| Estabilidade vocal |☐|☐|☐|☐|☐|
+
+**Observações**
+
+---
+
+---
+
+---
+
+## 4. Ritmo
+
+| Critério |1|2|3|4|5|
+|-----------|:-:|:-:|:-:|:-:|:-:|
+| Pulsação |☐|☐|☐|☐|☐|
+| Manutenção do tempo |☐|☐|☐|☐|☐|
+| Coordenação com o teclado |☐|☐|☐|☐|☐|
+
+**Observações**
+
+---
+
+---
+
+---
+
+## 5. Percepção Musical
+
+Marque as habilidades desenvolvidas.
+
+- ☐ Reconhece notas graves e agudas
+- ☐ Repete pequenas melodias
+- ☐ Percebe desafinação
+- ☐ Identifica notas iguais
+- ☐ Identifica notas diferentes
+- ☐ Mantém tonalidade
+- ☐ Acompanha exercícios no teclado
+
+**Observações**
+
+---
+
+---
+
+---
+
+## 6. Emissão Vocal
+
+| Critério |1|2|3|4|5|
+|-----------|:-:|:-:|:-:|:-:|:-:|
+| Ataque vocal |☐|☐|☐|☐|☐|
+| Clareza da voz |☐|☐|☐|☐|☐|
+| Volume natural |☐|☐|☐|☐|☐|
+| Coordenação voz/ar |☐|☐|☐|☐|☐|
+
+**Observações**
+
+---
+
+---
+
+---
+
+## 7. Dicção
+
+| Critério |1|2|3|4|5|
+|-----------|:-:|:-:|:-:|:-:|:-:|
+| Clareza das palavras |☐|☐|☐|☐|☐|
+| Pronúncia |☐|☐|☐|☐|☐|
+| Articulação |☐|☐|☐|☐|☐|
+
+**Observações**
+
+---
+
+---
+
+---
+
+## 8. Exercícios com Teclado
+
+| Exercício | Conseguiu |
+|------------|:---------:|
+| Repetição de notas | ☐ |
+| Escala maior | ☐ |
+| Escala descendente | ☐ |
+| Intervalos simples | ☐ |
+| Vocalizes em cinco notas | ☐ |
+| Cantar acompanhando acordes | ☐ |
+
+**Observações**
+
+---
+
+---
+
+---
+
+# Participação nas Aulas
+
+| Critério |1|2|3|4|5|
+|-----------|:-:|:-:|:-:|:-:|:-:|
+| Interesse |☐|☐|☐|☐|☐|
+| Atenção |☐|☐|☐|☐|☐|
+| Dedicação |☐|☐|☐|☐|☐|
+| Prática em casa |☐|☐|☐|☐|☐|
+
+---
+
+# Pontos Fortes
+
+1.
+
+____________________________________________________
+
+2.
+
+____________________________________________________
+
+3.
+
+____________________________________________________
+
+---
+
+# Pontos de Desenvolvimento
+
+1.
+
+____________________________________________________
+
+2.
+
+____________________________________________________
+
+3.
+
+____________________________________________________
+
+---
+
+# Plano para as Próximas Aulas
+
+## Objetivo 1
+
+____________________________________________________
+
+### Exercícios
+
+____________________________________________________
+
+---
+
+## Objetivo 2
+
+____________________________________________________
+
+### Exercícios
+
+____________________________________________________
+
+---
+
+## Objetivo 3
+
+____________________________________________________
+
+### Exercícios
+
+____________________________________________________
+
+---
+
+# Exercícios para Praticar em Casa
+
+- ☐ Respiração
+- ☐ Vocalizes
+- ☐ Escalas
+- ☐ Afinação
+- ☐ Ritmo
+- ☐ Leitura rítmica
+- ☐ Exercícios com teclado
+- ☐ Música estudada
+
+---
+
+# Feedback ao Aluno
+
+____________________________________________________
+
+____________________________________________________
+
+____________________________________________________
+
+____________________________________________________
+
+____________________________________________________
+
+---
+
+# Registro de Evolução
+
+**Primeira gravação realizada**
+
+☐ Sim
+
+☐ Não
+
+**Nova gravação realizada**
+
+☐ Sim
+
+☐ Não
+
+## Evolução percebida
+
+____________________________________________________
+
+____________________________________________________
+
+____________________________________________________
+
+____________________________________________________
+
+---
+
+# Resultado Final
+
+## Nível alcançado no Módulo 1
+
+- ☐ Excelente
+- ☐ Muito Bom
+- ☐ Bom
+- ☐ Em Desenvolvimento
+- ☐ Necessita Reforço
+
+---
+
+## Pronto para avançar ao Módulo 2?
+
+☐ Sim
+
+☐ Ainda não
+
+### Observações
+
+____________________________________________________
+
+____________________________________________________
+
+____________________________________________________
+
+---
+
+**Assinatura do Professor**
+
+_________________________________________
+
+**Data**
+
+____ / ____ / ______
