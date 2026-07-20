@@ -2177,5 +2177,230 @@ Minha dúvida para próxima aula:
 ______________
 
 
+----
+
+# Painel de Evolução do Módulo 1
+
+Em vez de uma nota de 0 a 10, cada competência possui indicadores mensuráveis.
+
+Competência	Meta Inicial	Meta em 2 semanas
+Respiração	Sustentar "S" por 10 s	18 s
+Afinação	Repetir 3 notas corretas	Repetir 5 notas corretas
+Ritmo	Palmas em semínimas	Palmas com colcheias sem perder o pulso
+Percepção	Identificar direção melódica	Identificar 5 intervalos básicos
+Solfejo	Ler 4 compassos	Ler 8 compassos simples
+Escalas	Escala maior em Dó	Escalas em 3 tonalidades
+
+Assim o aluno deixa a aula sabendo exatamente qual habilidade está desenvolvendo.
+
+Aula 1 — Missão: Controle Respiratório
+
+Ao invés de apenas ensinar respiração.
+
+Teste Inicial
+Tempo máximo em "S"
+Tempo máximo em "Z"
+Tempo sustentando uma vogal
+
+Registrar tudo.
+
+Depois dos exercícios repetir.
+
+O aluno normalmente melhora na própria aula.
+
+Aula 2 — Missão: Caça à Afinação
+
+Você toca:
+
+Dó
+
+Ele canta.
+
+Depois
+
+Dó Ré
+
+Depois
+
+Dó Ré Mi
+
+Depois
+
+Mi Ré Dó
+
+Você marca apenas acertos.
+
+Exemplo:
+
+1 nota: ✅
+
+2 notas: ✅
+
+3 notas: ❌
+
+4 notas: ❌
+
+Na semana seguinte ele tenta novamente.
+
+Aula 3 — Missão: Relógio Humano
+
+Metrônomo em 70 bpm.
+
+Desliga.
+
+O aluno continua batendo palmas.
+
+Depois de 30 segundos você liga novamente.
+
+Quanto ele desviou?
+
+Isso é mensurável.
+
+Aula 4 — Missão: Detetive Musical
+
+Você canta dois sons.
+
+Ele responde:
+
+⬆ Subiu
+
+⬇ Desceu
+
+➡ Igual
+
+Depois
+
+Pergunta:
+
+Foi terça?
+
+Foi quinta?
+
+Foi oitava?
+
+Você registra quantos acertou.
+
+Aula 5 — Missão: Escada Musical
+
+Escalas maiores.
+
+Meta:
+
+Subir e descer sem perder afinação.
+
+Cronometrar quantas tonalidades conseguiu.
+
+Aula 6 — Missão: Primeira Leitura
+
+Entrega uma melodia simples.
+
+Tempo máximo:
+
+3 minutos para estudar.
+
+Depois grava.
+
+Daqui duas semanas grava outra.
+
+A comparação é excelente.
+
+Aula 7 — Missão: Integrar
+
+Mistura tudo.
+
+Escala.
+
+Depois ritmo.
+
+Depois leitura.
+
+Depois cantar.
+
+Sem interrupções.
+
+Isso simula a música real.
+
+Aula 8 — Missão Final
+
+Em vez de "prova".
+
+Faça um circuito.
+
+Estação 1
+
+Respiração
+
+Estação 2
+
+Afinação
+
+Estação 3
+
+Ritmo
+
+Estação 4
+
+Escalas
+
+Estação 5
+
+Solfejo
+
+Estação 6
+
+Música
+
+Ele vai acumulando conquistas.
+
+O que faria já hoje
+
+No retorno das aulas eu nem começaria cantando.
+
+Começaria dizendo:
+
+"Neste semestre vocês não serão avaliados por notas. Cada aula será um desafio. O objetivo é que vocês consigam enxergar a própria evolução. Toda aula termina com um resultado que será comparado com o da próxima."
+
+Isso muda completamente a percepção do curso.
+
+Uma ideia que acho que combina muito com seu método
+
+Como seu método tem quatro módulos (Fundamentos → Instrumento → Coordenação → Expressão), eu criaria um Passaporte do Cantor.
+
+Cada competência rende um selo quando é dominada.
+
+Exemplo:
+
+🎯 Respiração
+
+□ Fluxo de ar
+□ Apoio básico
+□ Sustentação
+
+🎵 Afinação
+
+□ Eco melódico
+□ Escala maior
+□ Intervalos básicos
+
+🥁 Ritmo
+
+□ Pulsação
+□ Metrônomo
+□ Compassos simples
+
+👂 Percepção
+
+□ Direção melódica
+□ Intervalos
+□ Memória auditiva
+
+📖 Solfejo
+
+□ Leitura rítmica
+□ Leitura melódica
+□ Escalas cantadas
+
+O aluno só avança para o Módulo 2 quando completa os selos essenciais. Isso reforça a ideia de progressão por competências, dá um aspecto de "jornada" ao curso e torna muito mais fácil mostrar, em apenas duas semanas, que houve evolução real e não apenas a impressão de que "teve aula".
+
 
 
