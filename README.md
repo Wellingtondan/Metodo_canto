@@ -2181,226 +2181,421 @@ ______________
 
 # Painel de Evolução do Módulo 1
 
-Em vez de uma nota de 0 a 10, cada competência possui indicadores mensuráveis.
+# 🎤 Método de Canto
+# Módulo 1 — Fundamentos Musicais
+## Sistema de Evolução por Competências
 
-Competência	Meta Inicial	Meta em 2 semanas
-Respiração	Sustentar "S" por 10 s	18 s
-Afinação	Repetir 3 notas corretas	Repetir 5 notas corretas
-Ritmo	Palmas em semínimas	Palmas com colcheias sem perder o pulso
-Percepção	Identificar direção melódica	Identificar 5 intervalos básicos
-Solfejo	Ler 4 compassos	Ler 8 compassos simples
-Escalas	Escala maior em Dó	Escalas em 3 tonalidades
+> **"Neste semestre vocês não serão avaliados por notas. Cada aula será um desafio. O objetivo é que vocês consigam enxergar a própria evolução. Toda aula termina com um resultado que será comparado com o da próxima."**
 
-Assim o aluno deixa a aula sabendo exatamente qual habilidade está desenvolvendo.
+---
 
-Aula 1 — Missão: Controle Respiratório
+# 🎯 Objetivo
 
-Ao invés de apenas ensinar respiração.
+O foco deste módulo é desenvolver competências musicais mensuráveis, permitindo que professor e aluno acompanhem a evolução de forma objetiva.
 
-Teste Inicial
-Tempo máximo em "S"
-Tempo máximo em "Z"
-Tempo sustentando uma vogal
+Ao invés de notas, cada competência possui indicadores claros de progresso.
 
-Registrar tudo.
+---
 
-Depois dos exercícios repetir.
+# 📊 Painel de Evolução
 
-O aluno normalmente melhora na própria aula.
+| Competência | Meta Inicial | Meta em 2 Semanas |
+|--------------|--------------|-------------------|
+| 🌬 Respiração | Sustentar "S" por 10 segundos | Sustentar "S" por 18 segundos |
+| 🎵 Afinação | Repetir corretamente 3 notas | Repetir corretamente 5 notas |
+| 🥁 Ritmo | Palmas em semínimas | Palmas em colcheias mantendo o pulso |
+| 👂 Percepção | Identificar direção melódica | Identificar 5 intervalos básicos |
+| 📖 Solfejo | Ler 4 compassos | Ler 8 compassos simples |
+| 🎼 Escalas | Escala Maior em Dó | Escalas em 3 tonalidades |
 
-Aula 2 — Missão: Caça à Afinação
+---
 
-Você toca:
+# 🎯 Aula 1 — Missão: Controle Respiratório
 
-Dó
+## Objetivo
 
-Ele canta.
+Desenvolver consciência respiratória e registrar a capacidade inicial do aluno.
 
-Depois
+## Teste Inicial
 
-Dó Ré
+### Sustentação
 
-Depois
+- "S": ______ segundos
+- "Z": ______ segundos
+- Vogal (A/E): ______ segundos
 
-Dó Ré Mi
+### Observações
 
-Depois
+_____________________________________________________
 
-Mi Ré Dó
+_____________________________________________________
 
-Você marca apenas acertos.
+## Exercícios
 
-Exemplo:
+- Respiração silenciosa
+- Fluxo de ar
+- Controle da expiração
+- Sustentação
 
-1 nota: ✅
+## Reavaliação
 
-2 notas: ✅
+Após os exercícios repetir os testes.
 
-3 notas: ❌
+| Exercício | Inicial | Final |
+|------------|---------|-------|
+| "S" | | |
+| "Z" | | |
+| Vogal | | |
 
-4 notas: ❌
+---
 
-Na semana seguinte ele tenta novamente.
+# 🎯 Aula 2 — Missão: Caça à Afinação
 
-Aula 3 — Missão: Relógio Humano
+## Objetivo
 
-Metrônomo em 70 bpm.
+Desenvolver percepção e reprodução correta das alturas.
 
-Desliga.
+## Desafio
 
-O aluno continua batendo palmas.
+Professor toca:
 
-Depois de 30 segundos você liga novamente.
+- Dó
+- Dó Ré
+- Dó Ré Mi
+- Mi Ré Dó
+- Sol Mi Dó
 
-Quanto ele desviou?
+Aluno responde.
 
-Isso é mensurável.
+## Registro
 
-Aula 4 — Missão: Detetive Musical
+| Sequência | Resultado |
+|------------|-----------|
+| 1 nota | ☐ |
+| 2 notas | ☐ |
+| 3 notas | ☐ |
+| 4 notas | ☐ |
+| 5 notas | ☐ |
 
-Você canta dois sons.
+Meta para próxima semana:
 
-Ele responde:
+_____________________________________________________
 
-⬆ Subiu
+---
 
-⬇ Desceu
+# 🎯 Aula 3 — Missão: Relógio Humano
 
-➡ Igual
+## Objetivo
 
-Depois
+Desenvolver estabilidade rítmica.
 
-Pergunta:
+## Procedimento
 
-Foi terça?
+- Metrônomo em **70 bpm**
+- Após alguns compassos o metrônomo é desligado.
+- O aluno continua marcando o pulso.
+- Após 30 segundos o metrônomo retorna.
 
-Foi quinta?
+## Registro
 
-Foi oitava?
+Desvio observado:
 
-Você registra quantos acertou.
+______ bpm
 
-Aula 5 — Missão: Escada Musical
+ou
 
-Escalas maiores.
+______ segundos
 
-Meta:
+### Observações
 
-Subir e descer sem perder afinação.
+_____________________________________________________
 
-Cronometrar quantas tonalidades conseguiu.
+---
 
-Aula 6 — Missão: Primeira Leitura
+# 🎯 Aula 4 — Missão: Detetive Musical
 
-Entrega uma melodia simples.
+## Objetivo
 
-Tempo máximo:
+Desenvolver percepção auditiva.
 
-3 minutos para estudar.
+## Parte 1
 
-Depois grava.
+O professor canta dois sons.
 
-Daqui duas semanas grava outra.
+O aluno identifica:
 
-A comparação é excelente.
+- ☐ Subiu
+- ☐ Desceu
+- ☐ Permaneceu igual
 
-Aula 7 — Missão: Integrar
+---
 
-Mistura tudo.
+## Parte 2
 
-Escala.
+Reconhecimento de intervalos.
 
-Depois ritmo.
+Acertos
 
-Depois leitura.
+| Intervalo | Resultado |
+|------------|-----------|
+| Segunda | ☐ |
+| Terça | ☐ |
+| Quarta | ☐ |
+| Quinta | ☐ |
+| Oitava | ☐ |
 
-Depois cantar.
+Total
+
+______/5
+
+---
+
+# 🎯 Aula 5 — Missão: Escada Musical
+
+## Objetivo
+
+Executar escalas mantendo estabilidade vocal.
+
+## Registro
+
+Escalas realizadas
+
+☐ Dó
+
+☐ Ré
+
+☐ Mi
+
+☐ Fá
+
+☐ Sol
+
+☐ Lá
+
+☐ Si
+
+### Melhor tonalidade
+
+____________________________________
+
+### Observações
+
+____________________________________
+
+---
+
+# 🎯 Aula 6 — Missão: Primeira Leitura
+
+## Objetivo
+
+Desenvolver leitura musical.
+
+### Procedimento
+
+Tempo de estudo
+
+**3 minutos**
+
+Depois o aluno executa a leitura.
+
+A apresentação será gravada.
+
+Após duas semanas será realizada nova gravação para comparação.
+
+### Critérios
+
+- Leitura rítmica
+- Afinação
+- Continuidade
+- Segurança
+
+Observações
+
+____________________________________
+
+---
+
+# 🎯 Aula 7 — Missão: Integração
+
+## Objetivo
+
+Integrar todas as competências.
+
+Sequência
+
+1. Escala
+2. Ritmo
+3. Solfejo
+4. Música
 
 Sem interrupções.
 
-Isso simula a música real.
+### Avaliação
 
-Aula 8 — Missão Final
+| Competência | ✔ |
+|--------------|---|
+| Respiração | ☐ |
+| Afinação | ☐ |
+| Ritmo | ☐ |
+| Solfejo | ☐ |
+| Musicalidade | ☐ |
 
-Em vez de "prova".
+---
 
-Faça um circuito.
+# 🏆 Aula 8 — Missão Final
 
-Estação 1
+## Circuito Musical
 
-Respiração
+### Estação 1
 
-Estação 2
+🌬 Respiração
 
-Afinação
+☐ Concluído
 
-Estação 3
+---
 
-Ritmo
-
-Estação 4
-
-Escalas
-
-Estação 5
-
-Solfejo
-
-Estação 6
-
-Música
-
-Ele vai acumulando conquistas.
-
-O que faria já hoje
-
-No retorno das aulas eu nem começaria cantando.
-
-Começaria dizendo:
-
-"Neste semestre vocês não serão avaliados por notas. Cada aula será um desafio. O objetivo é que vocês consigam enxergar a própria evolução. Toda aula termina com um resultado que será comparado com o da próxima."
-
-Isso muda completamente a percepção do curso.
-
-Uma ideia que acho que combina muito com seu método
-
-Como seu método tem quatro módulos (Fundamentos → Instrumento → Coordenação → Expressão), eu criaria um Passaporte do Cantor.
-
-Cada competência rende um selo quando é dominada.
-
-Exemplo:
-
-🎯 Respiração
-
-□ Fluxo de ar
-□ Apoio básico
-□ Sustentação
+### Estação 2
 
 🎵 Afinação
 
-□ Eco melódico
-□ Escala maior
-□ Intervalos básicos
+☐ Concluído
+
+---
+
+### Estação 3
 
 🥁 Ritmo
 
-□ Pulsação
-□ Metrônomo
-□ Compassos simples
+☐ Concluído
 
-👂 Percepção
+---
 
-□ Direção melódica
-□ Intervalos
-□ Memória auditiva
+### Estação 4
+
+🎼 Escalas
+
+☐ Concluído
+
+---
+
+### Estação 5
 
 📖 Solfejo
 
-□ Leitura rítmica
-□ Leitura melódica
-□ Escalas cantadas
+☐ Concluído
 
-O aluno só avança para o Módulo 2 quando completa os selos essenciais. Isso reforça a ideia de progressão por competências, dá um aspecto de "jornada" ao curso e torna muito mais fácil mostrar, em apenas duas semanas, que houve evolução real e não apenas a impressão de que "teve aula".
+---
+
+### Estação 6
+
+🎤 Música
+
+☐ Concluído
+
+---
+
+# 🎓 Passaporte do Cantor
+
+## 🌬 Respiração
+
+- ☐ Fluxo de Ar
+- ☐ Apoio Básico
+- ☐ Sustentação
+
+---
+
+## 🎵 Afinação
+
+- ☐ Eco Melódico
+- ☐ Escala Maior
+- ☐ Intervalos Básicos
+
+---
+
+## 🥁 Ritmo
+
+- ☐ Pulsação
+- ☐ Metrônomo
+- ☐ Compassos Simples
+
+---
+
+## 👂 Percepção
+
+- ☐ Direção Melódica
+- ☐ Intervalos
+- ☐ Memória Auditiva
+
+---
+
+## 📖 Solfejo
+
+- ☐ Leitura Rítmica
+- ☐ Leitura Melódica
+- ☐ Escalas Cantadas
+
+---
+
+# 🏅 Conquistas
+
+| Conquista | Data |
+|------------|------|
+| 🎯 Controle Respiratório | |
+| 🎵 Primeira Escala Completa | |
+| 🥁 Ritmo Dominado | |
+| 👂 Intervalos Reconhecidos | |
+| 📖 Primeiro Solfejo | |
+| 🎤 Primeira Música Completa | |
+
+---
+
+# 📈 Evolução do Aluno
+
+| Competência | Avaliação Inicial | Avaliação Final |
+|--------------|-------------------|-----------------|
+| Respiração | | |
+| Afinação | | |
+| Ritmo | | |
+| Percepção | | |
+| Solfejo | | |
+| Escalas | | |
+
+---
+
+# 🚀 Critério para Avançar ao Módulo 2
+
+O aluno estará apto para iniciar o **Módulo 2 – Construção do Instrumento Vocal** quando demonstrar domínio das competências essenciais do Módulo 1.
+
+## Competências Obrigatórias
+
+- ☐ Respiração
+- ☐ Afinação
+- ☐ Ritmo
+- ☐ Percepção Musical
+- ☐ Solfejo Básico
+- ☐ Escalas Maiores
+
+---
+
+## Certificação
+
+**Aluno:**
+
+____________________________________________
+
+Concluiu com êxito o **Módulo 1 — Fundamentos Musicais** e está apto a prosseguir para o próximo nível do Método de Canto.
+
+Professor
+
+____________________________________________
+
+Data
+
+______/______/________
+
+Assinatura
+
+____________________________________________
 
 
 
