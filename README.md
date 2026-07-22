@@ -2597,5 +2597,195 @@ Assinatura
 
 ____________________________________________
 
+----
+
+🎤 Painel de Evolução — Módulo 2
+Construção do Instrumento Vocal
+
+"Agora que você entende a música, vamos construir o instrumento que a produz."
+
+🎯 Objetivo
+
+Desenvolver uma voz saudável, estável e eficiente por meio da evolução de competências técnicas mensuráveis.
+
+Cada aula termina com um novo registro, permitindo comparar o desempenho ao longo do semestre.
+
+📊 Raio-X Vocal (Aula 1)
+Música de referência
+
+O aluno canta uma música escolhida previamente (sempre a mesma durante o módulo).
+
+Essa gravação será comparada com a da Aula 8.
+
+Avaliação Inicial
+Competência	Nível Inicial (1 a 5)
+🌬 Respiração	☐1 ☐2 ☐3 ☐4 ☐5
+💨 Apoio	☐1 ☐2 ☐3 ☐4 ☐5
+🎤 Emissão	☐1 ☐2 ☐3 ☐4 ☐5
+🎯 Ataque Vocal	☐1 ☐2 ☐3 ☐4 ☐5
+🔊 Ressonância	☐1 ☐2 ☐3 ☐4 ☐5
+🗣 Dicção	☐1 ☐2 ☐3 ☐4 ☐5
+📢 Projeção	☐1 ☐2 ☐3 ☐4 ☐5
+🧍 Postura	☐1 ☐2 ☐3 ☐4 ☐5
+🩺 Diagnóstico do Professor
+Pontos fortes
+Pontos que precisam de atenção
+🎯 Plano Personalizado do Módulo
+Objetivo Principal
+
+(Escolher apenas um.)
+
+☐ Melhorar o apoio respiratório
+
+☐ Reduzir tensão na laringe
+
+☐ Melhorar a projeção
+
+☐ Desenvolver ressonância
+
+☐ Melhorar a dicção
+
+☐ Estabilizar a emissão
+
+☐ Outro:
+
+Objetivos Secundários
+
+☐ Respiração
+
+☐ Apoio
+
+☐ Ataque
+
+☐ Ressonância
+
+☐ Dicção
+
+☐ Coordenação
+
+☐ Projeção
+
+A partir daqui, cada aula tem uma "missão", assim como no Módulo 1.
+
+🎯 Aula 2 — Missão: Fluxo de Ar
+Desafio
+
+Quanto tempo consegue sustentar a vogal A mantendo:
+
+volume constante;
+afinação estável;
+sem tensão.
+
+Registro:
+
+Tempo: ______
+
+Observações:
+
+🎯 Aula 3 — Missão: Ataque Perfeito
+
+Professor toca 10 notas.
+
+O aluno inicia cada nota utilizando ataque coordenado.
+
+Registro:
+
+Acertos:
+
+_____/10
+
+🎯 Aula 4 — Missão: Encontrando a Ressonância
+
+Durante vocalizes:
+
+☐ sente vibração facial
+
+☐ mantém a vibração
+
+☐ transfere a sensação para a música
+
+🎯 Aula 5 — Missão: Voz Equilibrada
+
+Escalas de cinco notas.
+
+Avaliar:
+
+☐ mesma qualidade vocal
+
+☐ sem apertar
+
+☐ sem perder brilho
+
+🎯 Aula 6 — Missão: Letra Clara
+
+Cantar uma música.
+
+Professor avalia:
+
+Critério	✔
+Vogais claras	☐
+Consoantes precisas	☐
+Letra compreensível	☐
+Boa projeção	☐
+🎯 Aula 7 — Missão: Técnica Integrada
+
+Executar duas músicas.
+
+Durante a execução observar:
+
+☐ Respiração
+
+☐ Apoio
+
+☐ Emissão
+
+☐ Ataque
+
+☐ Ressonância
+
+☐ Dicção
+
+☐ Projeção
+
+🏆 Aula 8 — Missão Final
+Nova gravação
+
+Mesma música da Aula 1.
+
+Comparação:
+
+vídeo;
+áudio;
+ficha técnica.
+📈 Evolução Técnica
+Competência	Aula 1	Aula 8
+Respiração		
+Apoio		
+Emissão		
+Ataque		
+Ressonância		
+Dicção		
+Projeção		
+Postura		
+🎓 Passaporte Vocal
+
+☐ Respiração coordenada
+
+☐ Apoio consistente
+
+☐ Emissão saudável
+
+☐ Ataque coordenado
+
+☐ Ressonância eficiente
+
+☐ Boa articulação
+
+☐ Projeção sem esforço
+
+☐ Consciência corporal
+
+O que mais me chamou a atenção na sua proposta foi o aspecto motivacional. Eu ampliaria essa ideia com um Plano Personalizado do Cantor. Em vez de todos os alunos perseguirem exatamente os mesmos objetivos, cada um teria uma meta principal definida na Aula 1 (por exemplo: reduzir tensão na mandíbula, melhorar o apoio ou ganhar clareza na dicção). Assim, a cada aula, além da "missão" comum da turma, o aluno acompanha a evolução do seu desafio individual. Isso torna o aprendizado mais significativo e reforça a percepção de progresso ao longo do semestre.
+
 
 
